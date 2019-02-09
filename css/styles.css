@@ -62,6 +62,7 @@ body p {
 	color: #D8D8D8;
 }
 
+
 .carousel-inner .item .center-block.image-fill {
 	-webkit-box-shadow: 0 0 0 0;
 	box-shadow: 0 0 0 0;
@@ -172,4 +173,7 @@ h1, h2, h3, p {
 }
 .thumbnail .caption .JADdes {
 	color: #636363;
+}
+.btn-group .dropdown-menu .12 {
+	color: #000000;
 }
